@@ -1,0 +1,8 @@
+在目录的命令行工具中依此执行
+git add .
+git commit -m "some description"
+git push -u origin master
+
+不同本地同步： git@github.com:YeQiu312/markDownNote.git
+
+同步：git pull
